@@ -1,0 +1,2 @@
+import{B as t}from"./index.ac627e08.js";import"./index.module.07fb6421.js";import"./index.57e66923.js";import"./iframe.ea5a9757.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.0adf97dd.js";const i={title:"Components/Button",component:t,args:{children:"Create account"},argTypes:{asChild:{table:{disable:!0}}}},p={},m=["Default"];export{p as Default,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=index.stories.c4bb2cb9.js.map
